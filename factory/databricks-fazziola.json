@@ -1,0 +1,9 @@
+{
+	"name": "databricks-fazziola",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18d3aaf0-a953-4ada-921f-850b6cfb9b55",
+		"tenantId": "977a6511-3639-4d1f-9227-1bf3a4ad4cb3"
+	}
+}
